@@ -1,0 +1,82 @@
+﻿&question_01_text=Quel âge as-tu?&
+&question_01_answer_01=- Moins de 7 ans&
+&question_01_answer_02=- 8 – 10 ans&
+&question_01_answer_03=- 11 – 14 ans&
+&question_01_answer_04=- 15 – 19 ans&
+&question_01_answer_05=- 20 ans et plus&
+
+&question_02_text=Comment est-ce que tu as entendu parler de ce jeu?&
+&question_02_answer_01=- On m’a dit que c’était intéressant&
+&question_02_answer_02=- Un ami me l’a suggéré&
+&question_02_answer_03=- Un enseignant me l’a recommandé&
+&question_02_answer_04=- Je l’ai trouvé sur l’internet et j’étais curieux&
+
+&question_03_text=Est-ce que quelqu’un a déjà répandu des rumeurs sur toi?&
+&question_03_answer_01=- Oui, une fois&
+&question_03_answer_02=- Oui, plusieurs fois&
+&question_03_answer_03=- Oui, ça arrive régulièrement&
+&question_03_answer_04=- Non&
+&question_03_answer_05=- Je ne sais pas&
+
+&question_04_text=Est-ce que quelqu’un a déjà répandu des rumeurs au sujet d’un.e de tes ami.e.s?&
+&question_04_answer_01=- Oui, je trouve ça vraiment plate&
+&question_04_answer_02=- Oui, ça ne m’a pas dérangé.e&
+&question_04_answer_03=- Oui, j’ai trouvé ça drôle&
+&question_04_answer_04=- Non&
+
+&question_05_text=Est-ce que tu as déjà été humilié.e en public par quelqu’un?&
+&question_05_answer_01=- Oui, par un.e ami.e&
+&question_05_answer_02=- Oui, par quelqu’un à l’école&
+&question_05_answer_03=- Oui, par quelqu’un d’autre&
+&question_05_answer_04=- Oui, plusieurs fois&
+&question_05_answer_05=- Non&
+
+&question_06_text=Est-ce que tu t’es déjà senti.e manipulé par ton chum ou ta blonde?&
+&question_06_answer_01=- Oui, une fois&
+&question_06_answer_02=- Oui, plusieurs fois dans le passé&
+&question_06_answer_03=- Oui, ça arrive souvent&
+&question_06_answer_04=- Non&
+
+&question_07_text=Est-ce que tu t’es déjà fait insulter par ton chum ou ta blonde?&
+&question_07_answer_01=- Oui, une fois&
+&question_07_answer_02=- Oui, par mon ancien.ne chum/blonde&
+&question_07_answer_03=- Oui, par mon chum/ma blonde actuel.le&
+&question_07_answer_04=- Oui, ça arrive souvent&
+&question_07_answer_05=- Non&
+
+&question_08_text=Est-ce que tu t’es déjà fait frapper ou pousser par ton chum ou ta blonde?&
+&question_08_answer_01=- Oui, une fois&
+&question_08_answer_02=- Oui, par mon ancien.ne chum/blonde&
+&question_08_answer_03=- Oui, par mon chum/ma blonde actuel.le&
+&question_08_answer_04=- Oui, ça arrive souvent&
+&question_08_answer_05=- Non&
+
+&question_09_text=Est-ce que tu connais quelqu’un qui se fait manipuler par son chum ou sa blonde?&
+&question_09_answer_01=- Oui, une personne&
+&question_09_answer_02=- Oui, un.e de mes ami.es&
+&question_09_answer_03=- Oui, ma soeur ou mon frère&
+&question_09_answer_04=- Oui, plusieurs personnes&
+&question_09_answer_05=- Non&
+
+&question_10_text=Est-ce que tu connais quelqu’un qui se fait insulter ou frapper par son chum ou sa blonde?&
+&question_10_answer_01=- Oui, une personne&
+&question_10_answer_02=- Oui, un.e de mes ami.es&
+&question_10_answer_03=- Oui, ma soeur ou mon frère&
+&question_10_answer_04=- Oui, plusieurs personnes&
+&question_10_answer_05=- Non&
+
+&question_11_text=Que fais-tu lorsque tu es triste?&
+&question_11_answer_01=- Je parle à un ami.e&
+&question_11_answer_02=- J’écoute de la musique ou je fais quelque chose pour me distraire&
+&question_11_answer_03=- J’essaie d’en parler à un parent ou un.e adulte de confiance&
+&question_11_answer_04=- Je recherche de l’aide sur l’internet&
+&question_11_answer_05=- Je l’écris dans mon blog ou dans mon journal intime&
+&question_11_answer_06=- Je ne fais rien&
+
+&question_12_text=Que peux-tu faire pour aider quelqu’un que tu connais qui vit de la violence?&
+&question_12_answer_01=- La soutenir&
+&question_12_answer_02=- L’aider à trouver de l’aide&
+&question_12_answer_03=- Demander à un.e adulte ou à un.e ami.e pour des conseils&
+&question_12_answer_04=- Je ne sais pas&
+
+&EOF=true

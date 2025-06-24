@@ -1,0 +1,35 @@
+&question_01_text=Did you like this game?&
+&question_01_answer_01=- Yes&
+&question_01_answer_02=- Sort of&
+&question_01_answer_03=- No&
+
+&question_02_text=If you said "yes" or "sort of", what did you like best about the game?&
+&question_02_answer_01=- The story&
+&question_02_answer_02=- The graphics&
+&question_02_answer_03=- Picking the way my characters look&
+&question_02_answer_04=- Checking out all of the links&
+&question_02_answer_05=- Going around the neighbourhood and meeting the characters&
+
+&question_03_text=Did you learn something new from this game&
+&question_03_answer_01=- Yes&
+&question_03_answer_02=- No&
+&question_03_answer_03=- I'm not sure&
+
+&question_04_text=If yes, what?&
+&question_04_answer_01=- I can do something to help a friend in a bad situation&
+&question_04_answer_02=- There are places you can go for help if you need it &
+&question_04_answer_03=- That I can say and do things to help stop rumours&
+&question_04_answer_04=- People can hurt and control others in many ways - not just by hitting&
+&question_04_answer_05=- Other&
+
+&question_05_text=Would you tell someone else to play the game?&
+&question_05_answer_01=- Yes&
+&question_05_answer_02=- No&
+&question_05_answer_03=- I'm not sure&
+
+&question_06_text=Would you play the game again?&
+&question_06_answer_01=- Yes&
+&question_06_answer_02=- No&
+&question_06_answer_03=- I'm not sure&
+
+&EOF=true

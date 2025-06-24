@@ -1,0 +1,36 @@
+﻿&question_01_text=Est-ce que tu as aimé ce jeu?&
+&question_01_answer_01=- Oui, c’est vraiment cool&
+&question_01_answer_02=- Vraiment plate&
+&question_01_answer_03=- No&
+&question_01_answer_04=- Torture&
+
+&question_02_text=Quels aspects de ce jeu as-tu aimé le plus?&
+&question_02_answer_01=- L’histoire&
+&question_02_answer_02=- Les graphiques&
+&question_02_answer_03=- Créer mon personnage&
+&question_02_answer_04=- Cliquer sur tous les liens&
+&question_02_answer_05=- Faire le tour des quartiers et rencontrer d’autres personnages&
+
+&question_03_text=As-tu appris quelque chose en jouant?&
+&question_03_answer_01=- Oui&
+&question_03_answer_02=- Non&
+&question_03_answer_03=- Pas sûr.e&
+
+&question_04_text=Que retiens-tu de ce jeu?&
+&question_04_answer_01=- Il des choses que je peux faire pour aider un.e ami.e qui est dans une situation difficile&
+&question_04_answer_02=- Il y a des endroits ou je peux trouver de l’aide&
+&question_04_answer_03=- Les gens peuvent blesser et manipuler de différentes façons&
+&question_04_answer_04=- Autres&
+
+&question_05_text=Est-ce que tu recommanderais ce jeu à quelqu’un d’autre?&
+&question_05_answer_01=- Oui&
+&question_05_answer_02=- Non&
+&question_05_answer_03=- Pas sûr.e&
+
+&question_06_text=Est-ce que tu jouerais à ce jeu une deuxième fois&
+&question_06_answer_01=- Oui&
+&question_06_answer_02=- Oui, seulement s’il y avait une suite&
+&question_06_answer_03=- Je ne sais pas&
+&question_06_answer_04=- Non&
+
+&EOF=true

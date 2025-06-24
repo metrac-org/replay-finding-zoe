@@ -1,0 +1,79 @@
+&question_01_text=How old are you?&
+&question_01_answer_01=- 2 to 7 years old&
+&question_01_answer_02=- 8 to 10 years old&
+&question_01_answer_03=- 11 to 14 years old&
+&question_01_answer_04=- 15 to 19 years old&
+&question_01_answer_05=- Over 20&
+
+&question_02_text=Why are you playing this game?&
+&question_02_answer_01=- I heard it was interesting&
+&question_02_answer_02=- A friend told me it was cool&
+&question_02_answer_03=- A teacher recommended it&
+&question_02_answer_04=- I found it on the web and got curious&
+&question_02_answer_05=- Other&
+
+&question_03_text=What kind of video games do you play most often?&
+&question_03_answer_01=- Online games&
+&question_03_answer_02=- Games through PS, DS, or another system&
+&question_03_answer_03=- I don't play video games much&
+
+&question_04_text=If someone was spreading a rumour about your friend, what would you do?&
+&question_04_answer_01=- Nothing&
+&question_04_answer_02=- I'd say something to try to stop the rumour&
+&question_04_answer_03=- I'd talk to a friend to figure out what to do&
+&question_04_answer_04=- I'd ask for help from a teacher, parent, or adult&
+&question_04_answer_05=- I'm not sure what I'd do&
+
+&question_05_text=When someone tells you a rumour about someone else, what do you do?&
+&question_05_answer_01=- I listen but don't do anything&
+&question_05_answer_02=- I think that it could be true&
+&question_05_answer_03=- I don't pay attention because it may not be true&
+&question_05_answer_04=- Other&
+
+&question_06_text=What do you like most in a good friend?&
+&question_06_answer_01=- Someone fun to hang out with&
+&question_06_answer_02=- Someone who likes me for who I am&
+&question_06_answer_03=- Someone I can talk to&
+&question_06_answer_04=- Someone that will share their stuff with me&
+&question_06_answer_05=- Other&
+
+&question_07_text=Do you think people who are dating can be real friends with each other?&
+&question_07_answer_01=- Yes&
+&question_07_answer_02=- No&
+&question_07_answer_03=- I'm not sure&
+
+&question_08_text=What's most important when people are dating or are friends?&
+&question_08_answer_01=- That they have things in common&
+&question_08_answer_02=- That they respect each other&
+&question_08_answer_03=- That they don't bad talk each other&
+&question_08_answer_04=- That they hang out a lot&
+&question_08_answer_05=- Other&
+
+&question_09_text=It's okay to 'put down' someone when ...&
+&question_09_answer_01=- You need to feel better about yourself&
+&question_09_answer_02=- You want someone to feel bad about themselves&
+&question_09_answer_03=- You honestly think it's better they heard it from you&
+&question_09_answer_04=- You apologize afterwards, right away&
+&question_09_answer_05=- It's never okay to put someone down&
+
+&question_10_text=Do you think girls can do anything boys can do?&
+&question_10_answer_01=- No&
+&question_10_answer_02=- Some girls, maybe&
+&question_10_answer_03=- Yes&
+&question_10_answer_04=- I don't know&
+
+&question_11_text=What do you do when you're sad?&
+&question_11_answer_01=- I talk about it with a friend&
+&question_11_answer_02=- I listen to music or something to get my mind off of it&
+&question_11_answer_03=- I try to talk to my parents or another adult I trust&
+&question_11_answer_04=- I look for help on the web&
+&question_11_answer_05=- I write about it on on my blog or in my journal&
+&question_11_answer_06=- Nothing, I just feel sad&
+
+&question_12_text=What do you think you can do to help a friend who's dealing with violence?&
+&question_12_answer_01=- Be there for them&
+&question_12_answer_02=- Help them find help to deal with it&
+&question_12_answer_03=- Ask a friend or adult for advice&
+&question_12_answer_04=- I don't know.&
+
+&EOF=true
